@@ -1,0 +1,11 @@
+{
+  "domain": "is-a-good.dev",
+  "subdomain": "uttarai",
+  "owner": {
+    "email": "your-email@gmail.com"
+  },
+  "record": {
+    "A": ["<YOUR_ORACLE_PUBLIC_IP>"]
+  },
+  "description": "AI app that extracts text from images and answers questions intelligently using OCR and AI."
+}
