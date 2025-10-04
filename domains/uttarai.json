@@ -5,7 +5,7 @@
     "email": "your-email@gmail.com"
   },
   "record": {
-    "A": ["<YOUR_ORACLE_PUBLIC_IP>"]
+    "A": ["140.245.18.104"]
   },
   "description": "AI app that extracts text from images and answers questions intelligently using OCR and AI."
 }
